@@ -1,5 +1,3 @@
-Sure, here are some Markdown-formatted handouts for easy printing:
-
 Cloud Computing Fundamentals
 =========================
 
